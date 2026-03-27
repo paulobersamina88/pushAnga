@@ -1,0 +1,16 @@
+Web-verified references consulted for this starter package:
+
+1) Angarita C., Montes C., Arroyo O. (2024)
+   "Machine learning based approach for predicting pushover curves of low-rise reinforced concrete frame buildings"
+
+2) Angarita C., Montes C., Arroyo O. (2025)
+   "Pushover-ML: A Machine Learning approach to predict a trilinear approximation of pushover curves for low-rise reinforced concrete frame buildings"
+
+3) Kuria K.K., Kegyes-Brassai O. (2025)
+   "Digital twin-based machine learning framework for predicting nonlinear pushover responses of reinforced concrete shear walls using analytical data"
+
+4) Samadian D. et al. (2024)
+   "Surrogate models for seismic and pushover response prediction of steel special moment resisting frames"
+
+5) Samadian D. et al. (2024)
+   "Meta databases of steel frame buildings for surrogate modelling at the city scale"
